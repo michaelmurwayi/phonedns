@@ -1,5 +1,2 @@
-service_provider,user_id,phonenumber1,phonenumber2,phonenumber3
 safaricom,huncho,0746256084,0724656156,0798561407
 airtel,mike,0789898989,0765656565,0712121212
-
-
